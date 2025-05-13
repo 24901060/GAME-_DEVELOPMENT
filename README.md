@@ -1,8 +1,8 @@
 # EX 4 : ELLIPSE DRAWING ALGORITHM
 
-NAME : MOHAMED NIZAMUDDIN A
+NAME : PRAVEEN S
 
-REG NO: 212224040194
+REG NO: 212224230206
 
 **AIM :**
 
@@ -116,7 +116,8 @@ int plotpoints(int xcenter,int ycenter,int x,int y)
 
 **Output :**
 
-![ellipsegamedevlopment](https://github.com/user-attachments/assets/51b06629-23d3-4109-91e3-f236dba53d95)
+![epplise](https://github.com/user-attachments/assets/0f20353c-deff-44b9-814e-1b0037fbbc19)
+
 
 
 **Result :**
